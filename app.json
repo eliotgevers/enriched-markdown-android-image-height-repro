@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Markdown Image Height",
+    "slug": "markdown-image-height",
+    "android": {
+      "package": "dev.eliotgevers.markdownimageheight"
+    }
+  }
+}
