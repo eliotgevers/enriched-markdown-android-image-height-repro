@@ -18,3 +18,7 @@ Use a native development build, not Expo Go. This repository pins Expo 57.0.26, 
 Before (unpatched Android 16 emulator):
 
 <img src="before.png" width="300" />
+
+After the candidate, using the same app and Android 16 emulator:
+
+<img src="after.png" width="300" />

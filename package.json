@@ -12,5 +12,8 @@
     "react": "19.2.3",
     "react-native": "0.86.3",
     "react-native-enriched-markdown": "1.1.0"
+  },
+  "patchedDependencies": {
+    "react-native-enriched-markdown@1.1.0": "patches/react-native-enriched-markdown@1.1.0.patch"
   }
 }
